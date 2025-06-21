@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: 20px auto 0 auto;
+  border: 4px solid #333;  /* Cor e espessura da borda em torno da tela */
+  border-radius: 4px;      /* Cantos com leve arredondamento */
+}
